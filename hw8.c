@@ -33,4 +33,6 @@ printf("The number %d in base %d is ", num1,base);
    }
    printf("\nEnter an integer or press q to quit:");
 	count=0;}
+	return 0;
+	
 }
